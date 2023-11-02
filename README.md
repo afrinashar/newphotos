@@ -1,1 +1,1 @@
-# newphotos
+# photo-gallery
